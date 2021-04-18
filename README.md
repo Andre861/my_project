@@ -9,6 +9,8 @@
 
 ## About Laravel
 
+This is a medical application created using Laravel 8. Voyager has been used for Admin Panel which can be accessed at "localhost:8000/admin". Login with email: admin@admin.com, and password: password. You can register or login as user using email: user@user.com, and password: password on landing page localhost:8000.
+
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
