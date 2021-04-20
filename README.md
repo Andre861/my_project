@@ -9,7 +9,10 @@
 
 ## About this project
 
-This is a "work in progress" medical application created using Laravel 8. Voyager has been used for Admin Panel which can be accessed at "localhost:8000/admin". Login with email: admin@admin.com, and password: password. You can register or login as user using email: user@user.com, and password: password on landing page localhost:8000. I have also implemented Livewire and Jetstream for scaffolding. The database used is MySql, and a database file called "my_project.sql" is also provided to import.
+This is a "work in progress" medical application created using Laravel 8. Voyager has been used for Admin Panel which can be accessed at "localhost:8000/admin". Login with email: admin@admin.com, and password: password. You can register or login as user using email: user@user.com, and password: password on landing page localhost:8000. I have also implemented Livewire and Jetstream for scaffolding. I would also want to implement a search feature, as well as a chat bot. The database used is MySql, and a database file called "my_project.sql" is also provided to import. 
+
+
+
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
